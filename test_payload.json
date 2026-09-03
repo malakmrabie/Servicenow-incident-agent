@@ -1,0 +1,7 @@
+{
+  "incident_sys_id": "123",
+  "number": "INC0010001",
+  "short_description": "test",
+  "description": "testing",
+  "priority": 3
+}
